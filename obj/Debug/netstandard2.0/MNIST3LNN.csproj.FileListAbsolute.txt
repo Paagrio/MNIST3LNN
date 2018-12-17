@@ -1,0 +1,9 @@
+D:\Projects\MNIST3LNN\bin\Debug\netstandard2.0\MNIST3LNN.deps.json
+D:\Projects\MNIST3LNN\bin\Debug\netstandard2.0\MNIST3LNN.dll
+D:\Projects\MNIST3LNN\bin\Debug\netstandard2.0\MNIST3LNN.pdb
+D:\Projects\MNIST3LNN\obj\Debug\netstandard2.0\MNIST3LNN.csprojAssemblyReference.cache
+D:\Projects\MNIST3LNN\obj\Debug\netstandard2.0\MNIST3LNN.csproj.CoreCompileInputs.cache
+D:\Projects\MNIST3LNN\obj\Debug\netstandard2.0\MNIST3LNN.AssemblyInfoInputs.cache
+D:\Projects\MNIST3LNN\obj\Debug\netstandard2.0\MNIST3LNN.AssemblyInfo.cs
+D:\Projects\MNIST3LNN\obj\Debug\netstandard2.0\MNIST3LNN.dll
+D:\Projects\MNIST3LNN\obj\Debug\netstandard2.0\MNIST3LNN.pdb
